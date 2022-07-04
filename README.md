@@ -13,21 +13,27 @@
 
 # スクリーンショット
 タイトル画面
+
 <img width="376" alt="タイトル" src="https://user-images.githubusercontent.com/56621273/177156223-aeafa405-c2b9-4937-ac1f-42388b80cf3f.png">
 
 チャット画面
+
 <img width="582" alt="チャット" src="https://user-images.githubusercontent.com/56621273/177156249-99416c5f-1a94-4f25-9335-f1983856da8a.png">
 
 ノーマルオセロの対戦画面
+
 ![オセロ](https://user-images.githubusercontent.com/56621273/177156181-06bae4b7-f2b1-481e-9d77-9b13774d72a0.png)
 
 ノーマルオセロの対戦結果画面
+
 ![オセロ結果](https://user-images.githubusercontent.com/56621273/177156183-8ee96092-e3df-4a49-8c3d-de9a19ce4158.png)
 
 一石千金オセロの対戦画面
+
 ![タイム](https://user-images.githubusercontent.com/56621273/177156171-e282d886-e217-4870-9a17-8d49767d3a6b.png)
 
 一石千金オセロの対戦結果画面
+
 ![タイム結果](https://user-images.githubusercontent.com/56621273/177156175-df459696-1a86-4a41-94e7-d8011cee5b1b.png)
 
 # 開発言語・技術
